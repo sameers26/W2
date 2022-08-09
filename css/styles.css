@@ -1,0 +1,117 @@
+body
+{
+  background: url('../Images/home/back.jpg');
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+
+}
+
+h1
+{
+  color: white;
+  font-size: 6rem;
+  position: relative;
+  top: 40px;
+}
+
+h2
+{
+  color: white;
+  position: relative;
+  top: 70px;
+
+}
+.in
+{
+  display: inline-block;
+  padding: 15px 30px;
+  position: relative;
+  top:15px;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover
+{
+  color: #FEFBF6;
+}
+
+hr{
+  color: white;
+  border-style: solid;
+  width: 50%;
+  position: relative;
+  bottom: 48px;
+  right: 10.4375%;
+}
+.navdiv
+{
+  background-color: rgba(255, 255, 255, 0.5);
+  width:36%;
+  height: 80px;
+  position: relative;
+  left: 64%;
+  margin:0;
+  text-align: right;
+
+}
+.captain
+{
+  position: absolute;
+  width: 4%;
+  height: 8%;
+  top:1.835%;
+  left: 11%;
+
+}
+
+p
+{
+  color: white;
+  width: 70%;
+  text-align: left;
+}
+
+h4
+{
+  color: white;
+
+}
+
+.explo
+{
+display: inline-block;
+position: absolute;
+top :52px;
+left:18px;
+color: grey;
+font-size: 40px;
+margin-top: 0px;
+
+}
+.cirdiv
+{
+  display: inline-block;
+  position: relative;
+  width: 160px;
+  height: 160px;
+  left: 300px;
+  top: 100px;
+
+}
+
+.circleImg
+{
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+}
+.main
+{
+  position: relative;
+  top: 140px;
+  margin-left: 80px;
+  display: inline-block;
+  width: 40%;
+}

@@ -1,0 +1,126 @@
+body
+{
+  background-image: url('../Images/destination/back.jpg');
+   background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
+.navbar
+{
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: 0;
+  width:39%;
+  height:65px;
+  border-radius: 3px;
+  float:right;
+
+}
+.navbar ul
+{
+  margin: 0;
+  text-align: left;
+  float: left;
+
+}
+.navbar li
+{
+  display: inline-block;
+  color: white;
+  padding: 15px 30px;
+  margin: 0;
+
+}
+
+.moon
+{
+  width: 350px;
+  height: 350px;
+  position: relative;
+  top: 260px;
+  left: 220px;
+}
+
+.pick
+{
+  position: absolute;
+  color: white;
+  font-size: 42px;
+  left: 14%;
+  top: 16%;
+  font: arial;
+}
+
+.big ul
+{
+  color: white;
+  padding-left: 0;
+  margin: 0;
+
+}
+
+.big ul li
+{
+  display: inline-block;
+  padding:26px;
+}
+.big
+{
+    width: 30%;
+    float: right;
+    position: relative;
+    top: 25%;
+    left: 20%;
+}
+
+.hm
+{
+  text-align: left;
+  color: white;
+  font-size: 100px;
+  font-family: 'Roboto Slab', serif;
+  padding-left: 26px;
+  margin: 0;
+}
+
+.wh
+{
+  color: white;
+  text-align: left;
+  padding-left: 26px;
+  font-size: 21px;
+
+}
+hr{
+  width: 35%;
+  position: relative;
+  left: 17%;
+  top: 26%;
+
+}
+.tab tr td p
+{
+  color: white;
+}
+.p1
+{
+  font-size: 20px;
+}
+
+.tab{
+  position: relative;
+  left: 52.5%;
+  top: 26%;
+  text-align: left;
+}
+.p22
+{
+  font-size: 35px;
+  padding-left: 25px;
+  margin-top: 0;
+}
+.p21
+{
+  font-size: 35px;
+  padding-right: 25px;
+  margin-top: 0;
+}
